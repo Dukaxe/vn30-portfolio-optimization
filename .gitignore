@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+data/vn30_close_*.csv
+.DS_Store
